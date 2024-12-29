@@ -34,7 +34,7 @@ I'm **Shubham S. Patil**, a Creative Fullstack Developer with 3+ years of experi
 
 ---
 
-## 💡 About Me
+<!-- ## 💡 About Me
 - 🔠 Currently leading the **Fitbe Project**, a smartwatch-based app providing fitness insights for B2B and B2C markets.
 - 🌟 Exploring advanced data visualization techniques.
 - 🔊 Ask me about full-stack development, scalable backend design, and APIs.
@@ -62,7 +62,7 @@ A robust data-driven car rental platform featuring analytics and insights for im
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
-
+-->
 ## 💼 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham37/)
