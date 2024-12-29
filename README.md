@@ -15,6 +15,7 @@ I'm **Shubham S. Patil**, a Creative Fullstack Developer with 3+ years of experi
 - Node.js
 - NestJS
 - ExpressJS
+- Java
 
 
 ### 🔍 Databases
