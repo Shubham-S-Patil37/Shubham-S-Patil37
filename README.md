@@ -11,14 +11,15 @@ I'm **Shubham S. Patil**, a Creative Fullstack Developer with 3+ years of experi
 - JavaFX
 
 ### 🔧 Backend
+- Python
 - Node.js
 - NestJS
-- Python
+- ExpressJS
+
 
 ### 🔍 Databases
 - MongoDB
 - MySQL
-- Elasticsearch
 
 ### ✨ Others
 - Microservices
@@ -64,6 +65,6 @@ A robust data-driven car rental platform featuring analytics and insights for im
 
 ## 💼 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham37/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-S-Patil37)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link) -->
