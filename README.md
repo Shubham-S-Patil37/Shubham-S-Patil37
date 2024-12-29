@@ -27,7 +27,7 @@ I'm **Shubham S. Patil**, a Creative Fullstack Developer with 3+ years of experi
 - Microservices
 - MVC Architecture
 - REST API Development
-
+<!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,7 +36,7 @@ I'm **Shubham S. Patil**, a Creative Fullstack Developer with 3+ years of experi
 
 ---
 
-<!-- ## 💡 About Me
+ ## 💡 About Me
 - 🔠 Currently leading the **Fitbe Project**, a smartwatch-based app providing fitness insights for B2B and B2C markets.
 - 🌟 Exploring advanced data visualization techniques.
 - 🔊 Ask me about full-stack development, scalable backend design, and APIs.
